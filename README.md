@@ -15,6 +15,4 @@ Reva Sharma: Sophomore (Class of 2025); Majoring in Computer Science and Enginee
 
 Kit Jackson: Junior (Class of 2024); Majoring in Computer Science and Engineering; from Pennsylvania
 
-## Project Information
 
-## How to run it
