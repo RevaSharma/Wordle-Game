@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="csci205_hw_wordle.GuessEvaluatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-13T18:49:09" hostname="wifi175-160.bucknell.edu" time="0.014">
+  <properties/>
+  <testcase name="analyzeGuess()" classname="csci205_hw_wordle.GuessEvaluatorTest" time="0.014"/>
+  <system-out><![CDATA[betty
+words.txt: FOUND! Starting the game.
+Keeping 1157 valid words for the game...
+READY!
+
+glade
+betty
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
